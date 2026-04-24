@@ -1,0 +1,3 @@
+# ignorisanje da ne ide na github
+*.pkl
+/model
